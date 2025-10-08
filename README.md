@@ -70,10 +70,9 @@ Each notebook is a step forward in mastering **array operations**, **reshaping**
 
 - 🔹 [NumPy Official Docs](https://numpy.org/doc/)
 - 🔹 [W3Schools NumPy Tutorial](https://www.w3schools.com/python/numpy_intro.asp)
-- 🔹 [NumPy Tutorial by freeCodeCamp (YouTube)](https://www.youtube.com/watch?v=QUT1VHiLmmI)
-- 🔹 [Kaggle NumPy Course](https://www.kaggle.com/learn/numpy)
-- 🔹 [Python Data Science Handbook by Jake VanderPlas](https://jakevdp.github.io/PythonDataScienceHandbook/)
-- 🔹 [GeeksforGeeks NumPy Tutorials](https://www.geeksforgeeks.org/numpy-tutorials/)
+- 🔹 [Numpy for Data Science by Sagar Chouksey (YouTube)](https://youtu.be/9DhZ-JCWvDw?si=AV6Pj5C9NiAwhc3K)
+- 🔹 [NumPy Playlist by CampusX](https://youtube.com/playlist?list=PLKnIA16_Rmvb-ToL3RQ_bwxG4_ND-0-DT&si=moYnETRp0Y55v0Ks))
+
 
 ---
 
@@ -81,16 +80,15 @@ Each notebook is a step forward in mastering **array operations**, **reshaping**
 
 - **Python 3.x**
 - **NumPy**
-- **Jupyter Notebook / Google Colab**
+- **Jupyter Notebook**
 - **Matplotlib (for plotting)**
 
 ---
 
 ## ✨ Author
 
-**Shafaq Bibi**  
-📍 Passionate learner exploring AI, ML, and Data Science through continuous hands-on practice.  
-🔗 [LinkedIn](https://www.linkedin.com) • [GitHub](https://github.com/your-username)
+**Shafaq Aslam**  
+📍 Passionate learner exploring AI, ML, and Data Science through continuous hands-on practice.
 
 ---
 
