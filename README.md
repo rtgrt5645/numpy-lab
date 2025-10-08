@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:22C55E&height=200&section=header&text=NumPy%20Lab%20🧮&fontSize=40&fontColor=ffffff" alt="NumPy Banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:10B981&height=200&section=header&text=NumPy%20Lab%20🧮&fontSize=40&fontColor=ffffff" alt="NumPy Lab Banner"/>
 </p>
 
-<h2 align="center">🔬 My NumPy Learning Lab Begins! 🚀</h2>
+<h2 align="center">🔬 Learning, Experimenting, and Visualizing Data — The NumPy Way 🧩</h2>
 
-> A hands-on collection of Jupyter notebooks exploring **NumPy** — the core foundation of scientific computing and data analysis in Python.
+> A hands-on journey through **NumPy**, exploring array creation, manipulation, broadcasting, indexing, and data visualization — the foundation of scientific computing with Python.
 
 ---
 
